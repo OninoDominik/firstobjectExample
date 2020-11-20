@@ -1,0 +1,13 @@
+C:\Users\grobe\source\repos\MyFirstObject\MyFirstObject\bin\Debug\netcoreapp3.1\MyFirstObject.exe
+C:\Users\grobe\source\repos\MyFirstObject\MyFirstObject\bin\Debug\netcoreapp3.1\MyFirstObject.deps.json
+C:\Users\grobe\source\repos\MyFirstObject\MyFirstObject\bin\Debug\netcoreapp3.1\MyFirstObject.runtimeconfig.json
+C:\Users\grobe\source\repos\MyFirstObject\MyFirstObject\bin\Debug\netcoreapp3.1\MyFirstObject.runtimeconfig.dev.json
+C:\Users\grobe\source\repos\MyFirstObject\MyFirstObject\bin\Debug\netcoreapp3.1\MyFirstObject.dll
+C:\Users\grobe\source\repos\MyFirstObject\MyFirstObject\bin\Debug\netcoreapp3.1\MyFirstObject.pdb
+C:\Users\grobe\source\repos\MyFirstObject\MyFirstObject\obj\Debug\netcoreapp3.1\MyFirstObject.csprojAssemblyReference.cache
+C:\Users\grobe\source\repos\MyFirstObject\MyFirstObject\obj\Debug\netcoreapp3.1\MyFirstObject.AssemblyInfoInputs.cache
+C:\Users\grobe\source\repos\MyFirstObject\MyFirstObject\obj\Debug\netcoreapp3.1\MyFirstObject.AssemblyInfo.cs
+C:\Users\grobe\source\repos\MyFirstObject\MyFirstObject\obj\Debug\netcoreapp3.1\MyFirstObject.csproj.CoreCompileInputs.cache
+C:\Users\grobe\source\repos\MyFirstObject\MyFirstObject\obj\Debug\netcoreapp3.1\MyFirstObject.dll
+C:\Users\grobe\source\repos\MyFirstObject\MyFirstObject\obj\Debug\netcoreapp3.1\MyFirstObject.pdb
+C:\Users\grobe\source\repos\MyFirstObject\MyFirstObject\obj\Debug\netcoreapp3.1\MyFirstObject.genruntimeconfig.cache
